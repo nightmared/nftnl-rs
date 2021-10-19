@@ -1,3 +1,11 @@
+## BEGIN OF OBSOLETE MESSAGE
+
+This fork of `nftnl-rs` have been obsoleted by https://gitlab.com/rustwall/rustables.
+Please go there if you wish to benefit from a supported, more up to date (and probably
+more correct as well) version of this project.
+
+## END OF OBSOLETE MESSAGE
+
 # nftnl
 
 Safe abstraction for [`libnftnl`]. Provides low-level userspace access to the in-kernel
